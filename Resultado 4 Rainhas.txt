@@ -1,0 +1,35 @@
+Numero de rainhas: 4.
+Foram encontradas 2 solucoes!
+Tempo inicial: 2
+Tempo final: 6
+Tempo total em milissegundos: 4
+Tempo decorrido em segundos: 0
+
+-----------------------------------------
+
+Numero de rainhas: 8.
+Foram encontradas 92 solucoes!
+Tempo inicial: 2
+Tempo final: 868
+Tempo total em milissegundos: 866
+Tempo decorrido em segundos: 0
+
+-----------------------------------------
+
+Numero de rainhas: 12.
+Foram encontradas 14200 solucoes!
+Tempo inicial: 2
+Tempo final: 286985
+Tempo total em milissegundos: 286983
+Tempo decorrido em segundos: 286
+
+-----------------------------------------
+
+Numero de rainhas: 16.
+Tempo de execução ultrapassou 3 horas;
+
+-----------------------------------------
+
+Numero de rainhas: 20.
+Tempo de execução ultrapassou 3 horas;
+
